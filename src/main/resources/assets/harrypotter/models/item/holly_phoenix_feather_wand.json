@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "harrypotter:item/holly_phoenix_feather_wand"
+  }
+}

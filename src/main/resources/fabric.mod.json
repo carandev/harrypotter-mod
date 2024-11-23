@@ -11,10 +11,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "HarryPotterClient"
+      "me.carandev.harrypotter.client.HarrypotterClient"
     ],
     "main": [
-      "HarryPotter"
+      "me.carandev.harrypotter.Harrypotter"
     ]
   },
   "mixins": [

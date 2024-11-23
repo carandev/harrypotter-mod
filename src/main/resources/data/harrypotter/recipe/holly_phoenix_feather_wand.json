@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  P",
+    " S ",
+    "S  "
+  ],
+  "key": {
+    "P": {
+      "item": "harrypotter:phoenix_feather"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "harrypotter:holly_phoenix_feather_wand",
+    "count": 1
+  }
+}
